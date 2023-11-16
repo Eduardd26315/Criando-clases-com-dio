@@ -28,6 +28,6 @@ class Jogador {
 }
 
 
-const novoJogador = new Jogador("pablo", 25, tiposDeJogador[0]);
+const novoJogador = new Jogador("pablo", 28, tiposDeJogador[0]);
 novoJogador.ataque(); 
 
